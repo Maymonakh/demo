@@ -3,4 +3,4 @@ $sum=12;
 $n=3;
 $avg=$sum/$n;
 
-echo $avg;
+echo "The avarege is " +$avg;
